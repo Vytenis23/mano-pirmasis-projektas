@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeAcademy.iml" filepath="$PROJECT_DIR$/CodeAcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Naujas/Naujas.iml" filepath="$PROJECT_DIR$/Naujas/Naujas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produktai/Produktai.iml" filepath="$PROJECT_DIR$/Produktai/Produktai.iml" />
+    </modules>
+  </component>
+</project>
